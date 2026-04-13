@@ -1,13 +1,13 @@
 //
-//  secondTabViewController.swift
+//  gummyTabViewController.swift
 //  HackwichEleven_CandyReviewApp_3.24.26
 //
-//  Created by Bryleigh Ballesteros on 3/24/26.
+//  Created by Bryleigh Ballesteros on 4/13/26.
 //
 
 import UIKit
 
-class secondTabViewController: UIViewController {
+class gummyTabViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
